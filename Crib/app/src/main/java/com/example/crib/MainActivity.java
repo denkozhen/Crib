@@ -18,7 +18,7 @@ import android.widget.ListView;
 public class MainActivity extends AppCompatActivity {
 
     ListView listView;
-    String[] mTitle = {"Photoshop", "Illustrator", "InDesign", "After Effects", "Lightroom",};
+ 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
